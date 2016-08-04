@@ -134,7 +134,18 @@ h6 {
     float: right;
     margin-top: 0;
 }
-
+.section-image {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+    -webkit-transform: translateY(50%);
+    -ms-transform: translateY(50%);
+}
+.section-image img {
+    padding:15px;
+    border:2px solid #e7e7e7;
+    border-radius:5px;
+}
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
