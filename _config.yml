@@ -1,0 +1,30 @@
+# Dependencies
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+plugins:          [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Morgan Shorter'
+tagline:          'Just a byte of UNIX flavored goodness.'
+description:      'I write about *NIX, LISPy languages, and whatever else I feel like.'
+url:              http://morganshorter.com
+baseurl:          /
+
+author:
+  name:           'Morgan Shorter'
+  url:            'https://linkedin.com/in/morganshorter'
+
+paginate:         5
+paginate_path:    "page:num"
+
+# Custom vars
+github:
+  profile:           'https://github.com/morganshorter'
