@@ -16,7 +16,7 @@ title:            'Morgan Shorter'
 tagline:          'Just a byte of UNIX flavored goodness.'
 description:      'I write about *NIX, LISPy languages, and whatever else I feel like.'
 url:              http://morganshorter.com
-baseurl:          /
+baseurl:          http://morganshorter.com/
 
 author:
   name:           'Morgan Shorter'
