@@ -13,8 +13,8 @@ permalink:        pretty
 
 # Setup
 title:            'Morgan Shorter'
-tagline:          'Just a byte of UNIX flavored goodness.'
-description:      'I write about *NIX, LISPy languages, and whatever else I feel like.'
+tagline:          'shower thoughts on software'
+description:      'Computering Around The InterNets'
 url:              http://morganshorter.com
 baseurl:          http://morganshorter.com/
 
