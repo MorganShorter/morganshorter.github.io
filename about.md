@@ -2,22 +2,46 @@
 layout: page
 title: About
 ---
-I'm Morgan. I'm a \*NIX geek that loves working on the back-end; writing efficient application code and creating secure environments to deploy it in. I write software for [Copart](https://github.com/moshorter-copart) and tinker with side projects when I find the time. This site is mostly for the latter.
+I'm Morgan. I'm a programmer (among other things), and this website is where I post raves about my hobby projects, shower thoughts about technology, and other interesting bits of internet flotsam.
 
-I'm always looking for excuses to learn and use new and different technology: lisp, lua, Erlang, containers/jails, distributed systems, data crunching, security in all parts of the stack; the more open-source-y, the better.
+This site, of course, is provided "as is", without warranty of any kind, including but not limited to the warranty of fitness for a particular purpose, especially reading. Expect an erratic publishing schedule and breaking changes to the code.
 
-## Work
+Some projects I'm currently working on include:
+---
 
-I've worked on projects using a variety of popular web stacks, including:
++ Learning the subtleties of serving and securing data on FreeBSD and NetBSD.
++ Re-purposing old hardware
++ Doing interesting and novel things with DNS, routing tables, firewalls, TLS, and VPN software
++ Deleting systemd, wayland, and other garbage from my life (welcome back, Slackware, old friend)
++ Attempting to reach peak dotfiles perfection
++ This website
++ Learning R5RS and C
++ Finding ways to leverage FOSS to facilitate medical care and research
 
-* Python/Django
-* Nginx, Apache
-* GNU/Linux
-* Java/Spring Boot
-* Node, React, Redux, jQuery
-* etc.
 
-I've worked on e-commerce sites, blogs, static sites, API's, and the odd utility script here and there. Help me add to the list :)
+# Work
 
-Have a question? Want to work with me? Connect with me on [LinkedIn]({{ site.author.url }}) or [GitHub]({{ site.github.profile }}) :)
+I've worked in a wide range of roles, industries, and organizations. Some notable ones include being a technical expert in cheese making for an agriculture R&D think-tank owned by the monarchy of Thailand, writing ERP software for the worlds largest auto salvage auction company, and selling things--all the things. You can read more about my ~~riveting tales of for-profit adventure~~ work experience at [LinkedIn]({{ site.author.url }}), which is also where you can reach me if you're interested in working with me.
+
+Some things I do
+---
+* Back-end web development
+* Nginx, Apache, and GNU/Linux administration
+* Front-end development (if forced)
+* Python, JS, or whatever else gets the job done right
+* Agile project management (elite Jira and GitHub chad)
+* Git wizardry
+* CD/CI, documentation, and other DevOps-y stuff
+* Marketing strategy, speaking / presenting, closing, UI
+
+Some things I don't
+---
++ Java
++ PHP
++ Anything Visual Studios or .NET
++ Anything Microsoft Windows
++ C++
++ jUsT a QUicK rEdEsiGn oF OUr WeBSiTe
+
+You can connect with me on [LinkedIn]({{ site.author.url }}) or [GitHub]({{ site.github.profile }}) if you like :)
 
