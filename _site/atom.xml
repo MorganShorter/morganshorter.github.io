@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Morgan Shorter</title>
- <link href="http://morganshorter.com/atom.xml" rel="self"/>
- <link href="http://morganshorter.com/"/>
- <updated>2020-05-10T13:20:01-07:00</updated>
- <id>http://morganshorter.com</id>
+ <link href="https://morganshorter.com/atom.xml" rel="self"/>
+ <link href="https://morganshorter.com/"/>
+ <updated>2020-05-21T15:01:47-07:00</updated>
+ <id>https://morganshorter.com</id>
  <author>
    <name>Morgan Shorter</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Nice to meet you...</title>
-   <link href="http://morganshorter.com/2018/07/15/day-one/"/>
+   <link href="https://morganshorter.com/2018/07/15/day-one/"/>
    <updated>2018-07-15T00:00:00-07:00</updated>
-   <id>http://morganshorter.com/2018/07/15/day-one</id>
+   <id>https://morganshorter.com/2018/07/15/day-one</id>
    <content type="html">&lt;p&gt;This is my first time here too, so don’t be nervous.&lt;/p&gt;
 
 &lt;p&gt;This site mainly consists of me sharing technical tidbits I find interesting; some I’ve worked on, and others I’ve found. Eventually I’ll come up with a way to correspond with my readers that is more convenient. In the mean-time, you can talk to me on &lt;a href=&quot;https://linkedin.com/in/morganshorter&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
