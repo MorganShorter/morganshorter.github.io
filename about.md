@@ -41,7 +41,6 @@ Some things I don't
 + Anything Visual Studios or .NET
 + Anything Microsoft Windows
 + C++
-+ jUsT a QUicK rEdEsiGn oF OUr WeBSiTe
 
 You can connect with me on [LinkedIn]({{ site.author.url }}) or [GitHub]({{ site.github.profile }}) if you like :)
 
