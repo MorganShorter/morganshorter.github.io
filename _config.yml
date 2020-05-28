@@ -9,14 +9,14 @@ kramdown:
 plugins:          [jekyll-paginate, jekyll-gist]
 
 # Permalinks
-permalink:        pretty
+permalink: /:collection/:title
 
 # Setup
 title:            'Morgan Shorter'
 tagline:          'shower thoughts on software'
 description:      'Computering Around The InterNets'
 url:              https://morganshorter.com
-baseurl:          https://morganshorter.com/
+baseurl:          /
 
 author:
   name:           'Morgan Shorter'
