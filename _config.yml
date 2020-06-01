@@ -15,8 +15,8 @@ permalink: /:collection/:title
 title:            'Morgan Shorter'
 tagline:          'shower thoughts on software'
 description:      'Computering Around The InterNets'
-url:              https://morganshorter.com
-baseurl:          /
+url:              'https://morganshorter.com'
+baseurl:          ''
 
 author:
   name:           'Morgan Shorter'
